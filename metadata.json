@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LifeLine: Emergency Bed Finder",
+  "description": "A real-time hospital bed and ICU availability tracker for families and medical staff, featuring a map-based search and simplified admin portal.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
